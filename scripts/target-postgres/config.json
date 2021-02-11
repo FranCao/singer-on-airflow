@@ -1,0 +1,8 @@
+{
+    "postgres_host": "hostname",
+    "postgres_port": 5432,
+    "postgres_database": "database",
+    "postgres_username": "postgres",
+    "postgres_password":"password",
+    "postgres_schema": "schema_name"
+}
